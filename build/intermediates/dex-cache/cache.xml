@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raihana\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.2.30\ca12c47fc1e3a7316067b2a51e2f214745ebf8c5\kotlin-stdlib-jdk7-1.2.30.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca12c47fc1e3a7316067b2a51e2f214745ebf8c5">
+        <dex dex="F:\android_apps\Camera_kot\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jdk7-1.2.30_5b1b196a86bc822ef7e4d0cdb49fd59ff2310488\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_apps\Camera_kot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\android_apps\Camera_kot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c3535adde3c2d132d422c27b989a3f5895c48d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raihana\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="F:\android_apps\Camera_kot\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_fe961784bf3ad94fc30bfe64763fff842ff260a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_apps\Camera_kot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f270c7e1e80b94fd83d705f21c7a530ea4617185">
+        <dex dex="F:\android_apps\Camera_kot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff5897d21212b723256111fe7ec5e721d81bbb8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raihana\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.30\2dfac33f8b4e92c9dd1422cd286834701a6f6d6\kotlin-stdlib-1.2.30.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02dfac33f8b4e92c9dd1422cd286834701a6f6d6">
+        <dex dex="F:\android_apps\Camera_kot\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.2.30_8292756d1f15c74e924b976f2b0afb0d640fb0f2\classes.dex" />
+    </item>
+
+</items>
